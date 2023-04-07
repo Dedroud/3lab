@@ -1,0 +1,68 @@
+﻿<Window x:Class="Desktop.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Desktop"
+        mc:Ignorable="d"
+        Title="Registration" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+         
+           
+            <ColumnDefinition >
+
+            </ColumnDefinition>
+            <ColumnDefinition >
+
+            </ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+
+        <Image Source="/images/logo.png" Margin="70,70,70,70" VerticalAlignment="Top" HorizontalAlignment="Left"  Grid.Column="0" Width="150" Height="150" />
+        
+        <WrapPanel  Grid.ColumnSpan="2" Margin="20,50,0,0" Orientation="Vertical" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Label Content="Welcome back" FontSize="32"/>
+
+            <WrapPanel Margin="0 18 0 0" Orientation="Vertical" Grid.Column="1" Grid.RowSpan="1" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Label Content="Имя пользователя" FontSize="20"/>
+                <TextBox Name="Usernamebpx" Width="326" VerticalAlignment="Bottom" BorderBrush="#FFDFDFDF" HorizontalAlignment="Left" BorderThickness="0,0,0,1"/>
+            </WrapPanel>
+
+            <WrapPanel Margin="0 10 0 0" Orientation="Vertical" Grid.Column="1" Grid.RowSpan="1" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Label Content="Ваша почта" FontSize="20"/>
+                <TextBox Name="Emailbox" Width="326" VerticalAlignment="Bottom" BorderBrush="#FFDFDFDF" HorizontalAlignment="Left" BorderThickness="0,0,0,1" />
+            </WrapPanel>
+
+            <WrapPanel Margin="0 10 0 0" Orientation="Vertical" Grid.Column="1" Grid.RowSpan="1" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Label Content="Пароль" FontSize="20"/>
+                <TextBox  Name ="Passwordbox" Width="326" VerticalAlignment="Bottom" BorderBrush="#FFDFDFDF" HorizontalAlignment="Left" BorderThickness="0,0,0,1" />
+
+            </WrapPanel>
+
+            <WrapPanel Margin="0 10 0 10" Orientation="Vertical" Grid.Column="1" Grid.RowSpan="1" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Label Content="Повторите пароль" FontSize="20"/>
+                <TextBox Name="Repeatpasswordbox" Width="326" VerticalAlignment="Bottom" BorderBrush="#FFDFDFDF" HorizontalAlignment="Left" BorderThickness="0,0,0,1" />
+
+            </WrapPanel>
+
+            <Border  Margin="5 0 5 10" CornerRadius="12,12,2,2"
+    BorderThickness="2" Background="#F96060">
+                <Button Content="Зарегистрироваться" Background="#F96060" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Padding="0 10 0 10" Foreground="White" FontSize="18" BorderBrush="#FFF96060" VerticalAlignment="Center" Margin="8,0,10,0" Click="Button_Click" />
+            </Border>
+
+            <Border  Margin="5 0 5 10" CornerRadius="2,2,12,12"
+    BorderThickness="2" Background="#F96060">
+                <Button Content="Назад" Background="#F96060" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Padding="0 10 0 10" Foreground="White" FontSize="18" BorderBrush="#FFF96060" VerticalAlignment="Center" Margin="8,0,10,0" Click="Button_Click_1" />
+            </Border>
+
+
+
+
+
+        </WrapPanel>
+
+    </Grid>
+</Window>
