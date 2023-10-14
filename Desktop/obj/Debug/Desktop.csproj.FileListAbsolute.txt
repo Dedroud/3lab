@@ -1,0 +1,80 @@
+C:\Users\User\RiderProjects\ToDo\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\User\RiderProjects\ToDo\Desktop\bin\Debug\Desktop.exe
+C:\Users\User\RiderProjects\ToDo\Desktop\bin\Debug\Desktop.pdb
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\App.g.cs
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.exe
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.pdb
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\RegistrationWindow.g.cs
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\RegistrationWindow.baml
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\CreateTaskWindow.g.cs
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\MainEmptyWindow.g.cs
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\LogInWindow.g.cs
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\CreateTaskWindow.baml
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\MainEmptyWindow.baml
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\LogInWindow.baml
+C:\Users\User\RiderProjects\ToDo\Desktop\bin\Debug\Entities.dll
+C:\Users\User\RiderProjects\ToDo\Desktop\bin\Debug\Entities.pdb
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Desktop.csproj.CopyComplete
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Main.g.cs
+C:\Users\User\RiderProjects\ToDo\Desktop\obj\Debug\Main.baml
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\bin\Debug\Desktop.exe
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\bin\Debug\Desktop.pdb
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\bin\Debug\Entities.dll
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\bin\Debug\Entities.pdb
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\CreateTaskWindow.g.cs
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\LogInWindow.g.cs
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Main.g.cs
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\MainEmptyWindow.g.cs
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\RegistrationWindow.g.cs
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\CreateTaskWindow.baml
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\LogInWindow.baml
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Main.baml
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\MainEmptyWindow.baml
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\RegistrationWindow.baml
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.csproj.CopyComplete
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.exe
+C:\Users\USER\Desktop\ToDo Lab4\Desktop\obj\Debug\Desktop.pdb
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\CreateTaskWindow.g.cs
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\LogInWindow.g.cs
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Main.g.cs
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\MainEmptyWindow.g.cs
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\RegistrationWindow.g.cs
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\App.g.cs
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop.exe
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop.pdb
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\bin\Debug\Desktop.exe
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\bin\Debug\Desktop.pdb
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\bin\Debug\Entities.dll
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\bin\Debug\Entities.pdb
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\CreateTaskWindow.baml
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\LogInWindow.baml
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Main.baml
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\MainEmptyWindow.baml
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\RegistrationWindow.baml
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WPF-lab4\WPF-lab4\Desktop\obj\Debug\Desktop.csproj.CopyComplete
